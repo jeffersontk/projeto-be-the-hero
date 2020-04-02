@@ -63,5 +63,10 @@ export default StyleSheet.create({
     color: "#FFF",
     fontSize: 15,
     fontWeight: "bold"
+  },
+  share: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center"
   }
 });
